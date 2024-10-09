@@ -1,0 +1,1 @@
+Dictionary Manipulation Problem: Given a dictionary where the keys are strings and the values are lists of integers, write a function that returns a new dictionary with the same keys but where the values are the sum of the integers in the lists. Explanation: This problem involves dictionary operations and list processing.
